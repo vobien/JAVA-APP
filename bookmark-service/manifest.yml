@@ -1,0 +1,14 @@
+---
+applications:
+- name: bookmark-service
+  memory: 512M
+  instances: 2
+  host: bookmark-service
+  domain: ''
+  path: home/noname/bookmark-service.jar
+  services:
+      - my-service
+  env:
+    SPRING_PROFILES_ACTIVE: cloud
+    DEBUG: "true"
+    debug: "true"

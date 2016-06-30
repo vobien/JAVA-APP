@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: vn.tribt.demo.WebAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.096 sec - in vn.tribt.demo.WebAppApplicationTests
